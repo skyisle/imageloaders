@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+  <item
+      android:id="@+id/action_glide"
+      android:orderInCategory="100"
+      android:title="Glide"
+      app:showAsAction="never"/>
+
+  <item
+      android:id="@+id/action_picasso"
+      android:orderInCategory="100"
+      android:title="Picasso"
+      app:showAsAction="never"/>
+
+  <item
+      android:id="@+id/action_auil"
+      android:orderInCategory="100"
+      android:title="Auil"
+      app:showAsAction="never"/>
+
+  <item
+      android:id="@+id/action_volley"
+      android:orderInCategory="100"
+      android:title="Volley"
+      app:showAsAction="never"/>
+
+  <item
+      android:id="@+id/action_clear"
+      android:orderInCategory="100"
+      android:title="Clear Cache"
+      app:showAsAction="never"/>
+</menu>
